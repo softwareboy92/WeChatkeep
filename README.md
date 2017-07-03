@@ -2,7 +2,7 @@
 ------
 
 <li/>
-![微信30天养号](https://github.com/softwareboy92/WeChatkeep/blob/master/wximage.jpg?raw=true =600x250)
+![微信30天养号](WeChatkeep/wximage.jpg)
 <li/>
 第一阶段：（准备阶段）（1天）
 <li>1、严格遵循一个号一个机一卡。</li>
